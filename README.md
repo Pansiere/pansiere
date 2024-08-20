@@ -1,14 +1,13 @@
-# 👋 Hello! Welcome to my Github profile
+# Welcome to my Github profile
 
 <img src="https://media1.tenor.com/m/0oONemSpsAwAAAAC/plongus-mcnyale.gif" alt="Cat GIF" width="300px"/>
 
+## My name is João Pedro
+
 <div>
 <a href="https://github.com/pansiere">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pansiere&layout=compact&langs_count=7&theme=shadow_green"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pansiere&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pansiere&layout=compact&langs_count=7&theme=blue-green"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pansiere&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </div>
-
-## My name is João Pedro
 
 Here are some ideas to get you started:
 
