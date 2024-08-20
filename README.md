@@ -1,6 +1,8 @@
 # Welcome to my Github profile
 
+<img src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif" alt="Cat GIF" width="200px"/>
 <img src="https://media1.tenor.com/m/0oONemSpsAwAAAAC/plongus-mcnyale.gif" alt="Cat GIF" width="300px"/>
+<img src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif" alt="Cat GIF" width="200px"/>
 
 ## My name is João Pedro
 
