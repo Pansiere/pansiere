@@ -1,4 +1,6 @@
-# 👋 Hello! Welcome to my Github profile<img src="https://media1.tenor.com/m/0oONemSpsAwAAAAC/plongus-mcnyale.gif" alt="Cat GIF" width="300px"/>
+# 👋 Hello! Welcome to my Github profile
+
+<img src="https://media1.tenor.com/m/0oONemSpsAwAAAAC/plongus-mcnyale.gif" alt="Cat GIF" width="300px"/>
 
 <div>
 <a href="https://github.com/pansiere">
