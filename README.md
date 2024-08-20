@@ -2,8 +2,6 @@
 
 <img src="https://media1.tenor.com/m/0oONemSpsAwAAAAC/plongus-mcnyale.gif" alt="Cat GIF" width="430px"/>
 
-## My name is João Pedro
-
 <div>
 <a href="https://github.com/pansiere">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pansiere&layout=compact&langs_count=7&theme=dark"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pansiere&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
