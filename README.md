@@ -1,6 +1,6 @@
 # Welcome to my Github profile
 
-<img src="https://media1.tenor.com/m/0oONemSpsAwAAAAC/plongus-mcnyale.gif" alt="Cat GIF" width="430px"/>
+<img src="https://media1.tenor.com/m/0oONemSpsAwAAAAC/plongus-mcnyale.gif" alt="Cat GIF" width="280px"/>
 
 <div>
 <a href="https://github.com/pansiere">
