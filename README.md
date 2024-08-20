@@ -15,17 +15,13 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5527996710677" target="blank"> <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-## to do here
+---
 
-- 🔭 I’m currently working on ... I'm getting completele with knologe to get started withs codes
+- **🔭 Currently studing on:** PHP development and enhancing my knowledge in cybersecurity.
+- **🌱 Learning:** Programming in PHP and other technologies related to security and systems administration.
+- **⚡ Fun fact:** I'm a Linux user
 
-- 🌱 I’m currently learning ...I'm studing programming leaguenge (PHP) <img  loading="lazy" height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+---
 
-- ⚡ I'm a linux's user :D
-
-<img loading="lazy" height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-aaa
-
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_
-blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img loading="lazy" height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> <img loading="lazy" height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> <img loading="lazy" height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/
+devicon@latest/icons/linux/linux-original.svg" /> <img  loading="lazy" height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> <img loading="lazy" height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
