@@ -1,4 +1,10 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my Github profile<img src="https://media1.tenor.com/m/0oONemSpsAwAAAAC/plongus-mcnyale.gif" alt="Cat GIF" width="300px"/>
+
+<div>
+<a href="https://github.com/pansiere">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pansiere&layout=compact&langs_count=7&theme=shadow_green"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pansiere&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+</div>
 
 ## My name is João Pedro
 
@@ -21,11 +27,3 @@ Here are some ideas to get you started:
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<div>
-<a href="https://github.com/pansiere">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pansiere&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pansiere&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<div class="tenor-gif-embed" data-postid="15169123526728331276" data-share-method="host" data-aspect-ratio="1.52761" data-width="100%"><a href="https://tenor.com/view/plongus-mcnyale-cat-party-rave-gif-15169123526728331276">Plongus Mcnyale GIF</a>from <a href="https://tenor.com/search/plongus-gifs">Plongus GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
