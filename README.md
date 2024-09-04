@@ -18,7 +18,7 @@
 ---
 
 - **🔭 Currently studing on:** PHP development and enhancing my knowledge in cybersecurity.
-- **🌱 Learning:** Programming in PHP and other technologies related to security and systems administration.
+- **🌱 Learning:** Programming in PHP and other technologies related to security, systems administration and WEB applications.
 - **⚡ Fun fact:** I'm a Linux user
 
 ---
