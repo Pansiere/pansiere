@@ -1,1 +1,1 @@
-# SECON
+# Criador do SECON
