@@ -1,1 +1,1 @@
-![Banner](./secon_banner.svg)
+![Banner](./banner.svg)
