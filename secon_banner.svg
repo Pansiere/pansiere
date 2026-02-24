@@ -103,4 +103,14 @@
           letter-spacing="2">
         Sistema de Economia e Controle Financeiro
     </text>
+
+    <text x="330" y="235"
+          font-family="Consolas, monospace"
+          font-size="20"
+          fill="url(#neonGreen)"
+          filter="url(#glow)"
+          opacity="0.9"
+          letter-spacing="2">
+        I sometimes code.
+    </text>
 </svg>
