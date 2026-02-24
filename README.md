@@ -1,1 +1,1 @@
-# Criador do SECON
+![Banner](./secon_banner.svg)
